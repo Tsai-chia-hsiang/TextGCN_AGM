@@ -1,4 +1,4 @@
-# KNN-AGM overlapping clustering
+# KNN-AGM Fuzzy clustering
 For short text clustering by semantic similarity
 ## Algorithm:
 1. Using python Sentence-Transformer pretrain model (BERT) to embedding the short text.
