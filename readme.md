@@ -1,5 +1,8 @@
 # KNN-AGM Fuzzy clustering
 For short text clustering by semantic similarity
+
+reference : https://github.com/shchur/overlapping-community-detection.git
+
 ## Algorithm:
 1. Using python Sentence-Transformer pretrain model (BERT) to embedding the short text.
    - The pretrain model is fine-tuned for __semantic similarity__ task. (Also being pretrained) 
